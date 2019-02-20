@@ -1,2 +1,2 @@
 # bill-murray
-Bill Murray CSS exorcize
+Bill Murray CSS exercise
